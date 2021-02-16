@@ -1,0 +1,955 @@
+Permissions Report Run: 12-23-2020 12:56:54
+
+==================================================================
+IMHSNA\GXB7562WBC (Set as Single Sign On)
+==================================================================
+
+   User Settings
+   ======================================================
+      Account Status: Unlocked, Enabled
+      No Administrative Rights
+      User may access Investments modules
+
+   Does NOT have Access To The Following Companies:
+   ======================================================
+
+   Has Access To The Following Companies:
+   ======================================================
+      WBMI: West Bend Mutual Insurance Company
+
+   Does NOT have Access To The Following Processes:
+   ======================================================
+      Accounting.Add Expected
+      Accounting.Add Unexpected
+      Accounting.Convert Security
+      Accounting.Convert Security
+      Accounting.Derivative Add Expected
+      Accounting.Derivative Post Payments
+      Accounting.Disposals
+      Accounting.Initial Data Setup
+      Accounting.Inter-Company Transfer
+      Accounting.New Acquisition
+      Accounting.New Acquisition - Cash
+      Accounting.Post Payments
+      Accounting.Regenerate Expected
+      Accounting.Rollover/Reinvest
+      Accounting.Write Down
+      Asset Seg.Asset Seg Setup
+      Asset Seg.Edit Allocation
+      Asset Seg.Edit Transfers
+      Asset Seg.Global Transfer
+      Asset Seg.Remove From Companies
+      Asset Seg.Transfer
+      Basis Setup.Activation
+      Basis Setup.Copy Basis
+      Basis Setup.Delete
+      Basis Setup.Process Basis Holdings
+      Basis Setup.Reconvert
+      Basis Setup.Set Basis Holdings
+      Basis Setup.Setup
+      Basis Setup.View Non-Converted Securities
+      Cash Activity.Close Account
+      Cash Activity.Deposit / Withdrawal
+      Cash Activity.Sweep
+      Companies.Company Add
+      Companies.Company Groups Setup
+      Companies.Company Setup
+      Corporate Actions.Capital Gain
+      Corporate Actions.Capital Infusion
+      Corporate Actions.Declared Dividend
+      Corporate Actions.Return of Capital
+      Corporate Actions.Stock Dividend
+      Corporate Actions.Stock Split
+      Corporate Restructures.Merger
+      Corporate Restructures.Spin-Off
+      Custom Reports.Add/Edit/Delete Derivative Reports
+      Custom Reports.Custom Derivative Reports
+      Custom Reports.Export Derivative Reports
+      Datalock.BasisLock 
+      Datalock.Company Lock
+      Datalock.Derivative Lock
+      Datalock.Security Lock
+      Derivatives G/L.G/L Edit in Inquire
+      Derivatives G/L.G/L Inquire
+      Derivatives G/L.G/L Setup
+      Derivatives Inquire.Derivatives Inquire
+      Derivatives.Close Position - Exercise
+      Derivatives.Close Position - Expire
+      Derivatives.Close Position - Offset
+      Derivatives.Close Position - Terminate
+      Derivatives.Derivative Pricing
+      Derivatives.Derivative Reval
+      Derivatives.Edit Position
+      Derivatives.Edit Transaction
+      Derivatives.Hedge
+      Derivatives.Open Position - IDS
+      Derivatives.Open Position - New
+      Derivatives.Overrides
+      Edit Across Companies.Company Group Info
+      Edit Across Companies.Der Company Group Info
+      Edit Across Companies.Edit Master Info
+      Edit Across Companies.Global Data Table
+      Edit Across Companies.Security Info
+      Edit.Delete Corp Restructures
+      Edit.Lot/Basis Info
+      Edit.Overrides
+      Edit.Reprocess Lots
+      Edit.Transactions
+      Edit.Write Downs
+      Families.Delete Reporting Period
+      Families.Family Setup
+      Families.RSA Reporting Archive
+      Families.Reporting Period Archive
+      Foreign Currency.Currency Revaluation
+      Foreign Currency.Update History
+      Foreign Currency.Update Rates
+      General Ledger.G/L Edit in Inquire
+      General Ledger.G/L Inquire
+      General Ledger.G/L Processing
+      General Ledger.G/L Setup
+      Impairment Identification.Setup
+      Inflation Protected Securities.Index Values
+      Inflation Protected Securities.Inflation Adjustment
+      Period Close.Freeform Period Close
+      Period Close.Open Future Period
+      Period Close.Period Close
+      Period Close.Period Close Config
+      Report Data Manager.Force Refresh - Derivative
+      Report Data Manager.Force Refresh - Security
+      Report Data Manager.Manager
+      Reporting.iWorks Performance Data Manager
+      Reporting.iWorks Performance Reporting
+      SVO.AVS Export
+      SVO.AVS Import/SVO Analysis
+      SVO.Deadline/Follow-Up Dates
+      Settings.CECL Pool Maintenance
+      Settings.Custom Derivative Fields Setup
+      Settings.Custom Report Fields Setup
+      Settings.EPR Setup
+      Settings.New Format - Import
+      Settings.Regulatory Prior Year
+      Settings.System Setup
+      Settings.User Administration
+      Settings.User Permissions
+      Settings.iWORKS Setup
+      Settings.iWorks Performance Setup
+      Table Maintenance.Add New Entries
+      Table Maintenance.Delete Entries
+      Table Maintenance.Edit Existing Entries
+      Templates.Acquisition
+      Templates.Acquisition Template Management
+      Templates.Derivatives
+      Templates.Derivatives Template Management
+      Templates.UAT Defaults
+      Tools.Purge
+      Tools.Verification
+      UAT.Edit Format
+      UAT.Export - Derivatives
+      UAT.Export - Security
+      UAT.Import
+      UAT.Import Custodial Formats
+      UAT.New Format - Derivative
+      UAT.New Format - Schedule
+      UAT.New Format - Security
+      UAT.New Format - Tables
+      UAT.Pending Queue - Derivatives
+      UAT.Pending Queue - Securities
+      UAT.Pending Queue - Tables
+      UAT.Pricing
+      UAT.Ratings
+      UAT.Setup Custodial Formats
+      Updates.Automatic Updates
+      Updates.Manual Updates
+
+   Has Access To The Following Processes:
+   ======================================================
+      Custom Reports.Add/Edit/Delete Security Reports
+      Custom Reports.Custom Security Reports
+      Custom Reports.Export Security Reports
+      Custom Reports.Import Custom Reports
+      Impairment Identification.Analysis
+      Impairment Identification.Reporting
+      Inquire.Default Views
+      Inquire.Inquire
+      Inquire.Inter-Company Transfer
+      Inquire.View Component Setup
+      Inquire.Views Management
+      Inquire.Views Setup
+      Login.Period Login
+      Report Data Manager.Compliance
+      Reporting.Archived Reports
+      Reporting.Batch Reporting
+      Reporting.Derivative Reports
+      Reporting.EPR
+      Reporting.Permissions Report
+      Reporting.Regulatory - Derivative
+      Reporting.Regulatory - Security
+      Reporting.STAT Disclosure Reports
+      Reporting.Security Reports
+      Reporting.Tax Reports
+      Reporting.User Audits
+
+Permissions Report Run: 12-23-2020 12:56:55
+
+==================================================================
+IMHSNA\JAG0879WBC (Set as Single Sign On)
+==================================================================
+
+   User Settings
+   ======================================================
+      Account Status: Unlocked, Enabled
+      No Administrative Rights
+      User may access Investments modules
+
+   Does NOT have Access To The Following Companies:
+   ======================================================
+
+   Has Access To The Following Companies:
+   ======================================================
+      WBMI: West Bend Mutual Insurance Company
+
+   Does NOT have Access To The Following Processes:
+   ======================================================
+      Accounting.Add Expected
+      Accounting.Add Unexpected
+      Accounting.Convert Security
+      Accounting.Convert Security
+      Accounting.Derivative Add Expected
+      Accounting.Derivative Post Payments
+      Accounting.Disposals
+      Accounting.Initial Data Setup
+      Accounting.Inter-Company Transfer
+      Accounting.New Acquisition
+      Accounting.New Acquisition - Cash
+      Accounting.Post Payments
+      Accounting.Regenerate Expected
+      Accounting.Rollover/Reinvest
+      Accounting.Write Down
+      Asset Seg.Asset Seg Setup
+      Asset Seg.Edit Allocation
+      Asset Seg.Edit Transfers
+      Asset Seg.Global Transfer
+      Asset Seg.Remove From Companies
+      Asset Seg.Transfer
+      Basis Setup.Activation
+      Basis Setup.Copy Basis
+      Basis Setup.Delete
+      Basis Setup.Process Basis Holdings
+      Basis Setup.Reconvert
+      Basis Setup.Set Basis Holdings
+      Basis Setup.Setup
+      Basis Setup.View Non-Converted Securities
+      Cash Activity.Close Account
+      Cash Activity.Deposit / Withdrawal
+      Cash Activity.Sweep
+      Companies.Company Add
+      Companies.Company Groups Setup
+      Companies.Company Setup
+      Corporate Actions.Capital Gain
+      Corporate Actions.Capital Infusion
+      Corporate Actions.Declared Dividend
+      Corporate Actions.Return of Capital
+      Corporate Actions.Stock Dividend
+      Corporate Actions.Stock Split
+      Corporate Restructures.Merger
+      Corporate Restructures.Spin-Off
+      Custom Reports.Add/Edit/Delete Derivative Reports
+      Custom Reports.Custom Derivative Reports
+      Custom Reports.Export Derivative Reports
+      Datalock.BasisLock 
+      Datalock.Company Lock
+      Datalock.Derivative Lock
+      Datalock.Security Lock
+      Derivatives G/L.G/L Edit in Inquire
+      Derivatives G/L.G/L Inquire
+      Derivatives G/L.G/L Setup
+      Derivatives Inquire.Derivatives Inquire
+      Derivatives.Close Position - Exercise
+      Derivatives.Close Position - Expire
+      Derivatives.Close Position - Offset
+      Derivatives.Close Position - Terminate
+      Derivatives.Derivative Pricing
+      Derivatives.Derivative Reval
+      Derivatives.Edit Position
+      Derivatives.Edit Transaction
+      Derivatives.Hedge
+      Derivatives.Open Position - IDS
+      Derivatives.Open Position - New
+      Derivatives.Overrides
+      Edit Across Companies.Company Group Info
+      Edit Across Companies.Der Company Group Info
+      Edit Across Companies.Edit Master Info
+      Edit Across Companies.Global Data Table
+      Edit Across Companies.Security Info
+      Edit.Delete Corp Restructures
+      Edit.Lot/Basis Info
+      Edit.Overrides
+      Edit.Reprocess Lots
+      Edit.Transactions
+      Edit.Write Downs
+      Families.Delete Reporting Period
+      Families.Family Setup
+      Families.RSA Reporting Archive
+      Families.Reporting Period Archive
+      Foreign Currency.Currency Revaluation
+      Foreign Currency.Update History
+      Foreign Currency.Update Rates
+      General Ledger.G/L Edit in Inquire
+      General Ledger.G/L Inquire
+      General Ledger.G/L Processing
+      General Ledger.G/L Setup
+      Impairment Identification.Setup
+      Inflation Protected Securities.Index Values
+      Inflation Protected Securities.Inflation Adjustment
+      Period Close.Freeform Period Close
+      Period Close.Open Future Period
+      Period Close.Period Close
+      Period Close.Period Close Config
+      Report Data Manager.Force Refresh - Derivative
+      Report Data Manager.Force Refresh - Security
+      Report Data Manager.Manager
+      Reporting.iWorks Performance Data Manager
+      Reporting.iWorks Performance Reporting
+      SVO.AVS Export
+      SVO.AVS Import/SVO Analysis
+      SVO.Deadline/Follow-Up Dates
+      Settings.CECL Pool Maintenance
+      Settings.Custom Derivative Fields Setup
+      Settings.Custom Report Fields Setup
+      Settings.EPR Setup
+      Settings.New Format - Import
+      Settings.Regulatory Prior Year
+      Settings.System Setup
+      Settings.User Administration
+      Settings.User Permissions
+      Settings.iWORKS Setup
+      Settings.iWorks Performance Setup
+      Table Maintenance.Add New Entries
+      Table Maintenance.Delete Entries
+      Table Maintenance.Edit Existing Entries
+      Templates.Acquisition
+      Templates.Acquisition Template Management
+      Templates.Derivatives
+      Templates.Derivatives Template Management
+      Templates.UAT Defaults
+      Tools.Purge
+      Tools.Verification
+      UAT.Edit Format
+      UAT.Export - Derivatives
+      UAT.Export - Security
+      UAT.Import
+      UAT.Import Custodial Formats
+      UAT.New Format - Derivative
+      UAT.New Format - Schedule
+      UAT.New Format - Security
+      UAT.New Format - Tables
+      UAT.Pending Queue - Derivatives
+      UAT.Pending Queue - Securities
+      UAT.Pending Queue - Tables
+      UAT.Pricing
+      UAT.Ratings
+      UAT.Setup Custodial Formats
+      Updates.Automatic Updates
+      Updates.Manual Updates
+
+   Has Access To The Following Processes:
+   ======================================================
+      Custom Reports.Add/Edit/Delete Security Reports
+      Custom Reports.Custom Security Reports
+      Custom Reports.Export Security Reports
+      Custom Reports.Import Custom Reports
+      Impairment Identification.Analysis
+      Impairment Identification.Reporting
+      Inquire.Default Views
+      Inquire.Inquire
+      Inquire.Inter-Company Transfer
+      Inquire.View Component Setup
+      Inquire.Views Management
+      Inquire.Views Setup
+      Login.Period Login
+      Report Data Manager.Compliance
+      Reporting.Archived Reports
+      Reporting.Batch Reporting
+      Reporting.Derivative Reports
+      Reporting.EPR
+      Reporting.Permissions Report
+      Reporting.Regulatory - Derivative
+      Reporting.Regulatory - Security
+      Reporting.STAT Disclosure Reports
+      Reporting.Security Reports
+      Reporting.Tax Reports
+      Reporting.User Audits
+
+Permissions Report Run: 12-23-2020 12:56:55
+
+==================================================================
+IMHSNA\KEJ3422WES (Set as Single Sign On)
+==================================================================
+
+   User Settings
+   ======================================================
+      Account Status: Unlocked, Enabled
+      No Administrative Rights
+      User may access Investments modules
+
+   Does NOT have Access To The Following Companies:
+   ======================================================
+
+   Has Access To The Following Companies:
+   ======================================================
+      WBMI: West Bend Mutual Insurance Company
+
+   Does NOT have Access To The Following Processes:
+   ======================================================
+      Accounting.Add Expected
+      Accounting.Add Unexpected
+      Accounting.Convert Security
+      Accounting.Convert Security
+      Accounting.Derivative Add Expected
+      Accounting.Derivative Post Payments
+      Accounting.Disposals
+      Accounting.Initial Data Setup
+      Accounting.Inter-Company Transfer
+      Accounting.New Acquisition
+      Accounting.New Acquisition - Cash
+      Accounting.Post Payments
+      Accounting.Regenerate Expected
+      Accounting.Rollover/Reinvest
+      Accounting.Write Down
+      Asset Seg.Asset Seg Setup
+      Asset Seg.Edit Allocation
+      Asset Seg.Edit Transfers
+      Asset Seg.Global Transfer
+      Asset Seg.Remove From Companies
+      Asset Seg.Transfer
+      Basis Setup.Activation
+      Basis Setup.Copy Basis
+      Basis Setup.Delete
+      Basis Setup.Process Basis Holdings
+      Basis Setup.Reconvert
+      Basis Setup.Set Basis Holdings
+      Basis Setup.Setup
+      Basis Setup.View Non-Converted Securities
+      Cash Activity.Close Account
+      Cash Activity.Deposit / Withdrawal
+      Cash Activity.Sweep
+      Companies.Company Add
+      Companies.Company Groups Setup
+      Companies.Company Setup
+      Corporate Actions.Capital Gain
+      Corporate Actions.Capital Infusion
+      Corporate Actions.Declared Dividend
+      Corporate Actions.Return of Capital
+      Corporate Actions.Stock Dividend
+      Corporate Actions.Stock Split
+      Corporate Restructures.Merger
+      Corporate Restructures.Spin-Off
+      Custom Reports.Add/Edit/Delete Derivative Reports
+      Custom Reports.Custom Derivative Reports
+      Custom Reports.Export Derivative Reports
+      Datalock.BasisLock 
+      Datalock.Company Lock
+      Datalock.Derivative Lock
+      Datalock.Security Lock
+      Derivatives G/L.G/L Edit in Inquire
+      Derivatives G/L.G/L Inquire
+      Derivatives G/L.G/L Setup
+      Derivatives Inquire.Derivatives Inquire
+      Derivatives.Close Position - Exercise
+      Derivatives.Close Position - Expire
+      Derivatives.Close Position - Offset
+      Derivatives.Close Position - Terminate
+      Derivatives.Derivative Pricing
+      Derivatives.Derivative Reval
+      Derivatives.Edit Position
+      Derivatives.Edit Transaction
+      Derivatives.Hedge
+      Derivatives.Open Position - IDS
+      Derivatives.Open Position - New
+      Derivatives.Overrides
+      Edit Across Companies.Company Group Info
+      Edit Across Companies.Der Company Group Info
+      Edit Across Companies.Edit Master Info
+      Edit Across Companies.Global Data Table
+      Edit Across Companies.Security Info
+      Edit.Delete Corp Restructures
+      Edit.Lot/Basis Info
+      Edit.Overrides
+      Edit.Reprocess Lots
+      Edit.Transactions
+      Edit.Write Downs
+      Families.Delete Reporting Period
+      Families.Family Setup
+      Families.RSA Reporting Archive
+      Families.Reporting Period Archive
+      Foreign Currency.Currency Revaluation
+      Foreign Currency.Update History
+      Foreign Currency.Update Rates
+      General Ledger.G/L Edit in Inquire
+      General Ledger.G/L Inquire
+      General Ledger.G/L Processing
+      General Ledger.G/L Setup
+      Impairment Identification.Setup
+      Inflation Protected Securities.Index Values
+      Inflation Protected Securities.Inflation Adjustment
+      Period Close.Freeform Period Close
+      Period Close.Open Future Period
+      Period Close.Period Close
+      Period Close.Period Close Config
+      Report Data Manager.Force Refresh - Derivative
+      Report Data Manager.Force Refresh - Security
+      Report Data Manager.Manager
+      Reporting.iWorks Performance Data Manager
+      Reporting.iWorks Performance Reporting
+      SVO.AVS Export
+      SVO.AVS Import/SVO Analysis
+      SVO.Deadline/Follow-Up Dates
+      Settings.CECL Pool Maintenance
+      Settings.Custom Derivative Fields Setup
+      Settings.Custom Report Fields Setup
+      Settings.EPR Setup
+      Settings.New Format - Import
+      Settings.Regulatory Prior Year
+      Settings.System Setup
+      Settings.User Administration
+      Settings.User Permissions
+      Settings.iWORKS Setup
+      Settings.iWorks Performance Setup
+      Table Maintenance.Add New Entries
+      Table Maintenance.Delete Entries
+      Table Maintenance.Edit Existing Entries
+      Templates.Acquisition
+      Templates.Acquisition Template Management
+      Templates.Derivatives
+      Templates.Derivatives Template Management
+      Templates.UAT Defaults
+      Tools.Purge
+      Tools.Verification
+      UAT.Edit Format
+      UAT.Export - Derivatives
+      UAT.Export - Security
+      UAT.Import
+      UAT.Import Custodial Formats
+      UAT.New Format - Derivative
+      UAT.New Format - Schedule
+      UAT.New Format - Security
+      UAT.New Format - Tables
+      UAT.Pending Queue - Derivatives
+      UAT.Pending Queue - Securities
+      UAT.Pending Queue - Tables
+      UAT.Pricing
+      UAT.Ratings
+      UAT.Setup Custodial Formats
+      Updates.Automatic Updates
+      Updates.Manual Updates
+
+   Has Access To The Following Processes:
+   ======================================================
+      Custom Reports.Add/Edit/Delete Security Reports
+      Custom Reports.Custom Security Reports
+      Custom Reports.Export Security Reports
+      Custom Reports.Import Custom Reports
+      Impairment Identification.Analysis
+      Impairment Identification.Reporting
+      Inquire.Default Views
+      Inquire.Inquire
+      Inquire.Inter-Company Transfer
+      Inquire.View Component Setup
+      Inquire.Views Management
+      Inquire.Views Setup
+      Login.Period Login
+      Report Data Manager.Compliance
+      Reporting.Archived Reports
+      Reporting.Batch Reporting
+      Reporting.Derivative Reports
+      Reporting.EPR
+      Reporting.Permissions Report
+      Reporting.Regulatory - Derivative
+      Reporting.Regulatory - Security
+      Reporting.STAT Disclosure Reports
+      Reporting.Security Reports
+      Reporting.Tax Reports
+      Reporting.User Audits
+
+Permissions Report Run: 12-23-2020 12:56:55
+
+==================================================================
+IMHSNA\LAV2014WES (Set as Single Sign On)
+==================================================================
+
+   User Settings
+   ======================================================
+      Account Status: Unlocked, Enabled
+      No Administrative Rights
+      User may access Investments modules
+
+   Does NOT have Access To The Following Companies:
+   ======================================================
+
+   Has Access To The Following Companies:
+   ======================================================
+      WBMI: West Bend Mutual Insurance Company
+
+   Does NOT have Access To The Following Processes:
+   ======================================================
+      Accounting.Add Expected
+      Accounting.Add Unexpected
+      Accounting.Convert Security
+      Accounting.Convert Security
+      Accounting.Derivative Add Expected
+      Accounting.Derivative Post Payments
+      Accounting.Disposals
+      Accounting.Initial Data Setup
+      Accounting.Inter-Company Transfer
+      Accounting.New Acquisition
+      Accounting.New Acquisition - Cash
+      Accounting.Post Payments
+      Accounting.Regenerate Expected
+      Accounting.Rollover/Reinvest
+      Accounting.Write Down
+      Asset Seg.Asset Seg Setup
+      Asset Seg.Edit Allocation
+      Asset Seg.Edit Transfers
+      Asset Seg.Global Transfer
+      Asset Seg.Remove From Companies
+      Asset Seg.Transfer
+      Basis Setup.Activation
+      Basis Setup.Copy Basis
+      Basis Setup.Delete
+      Basis Setup.Process Basis Holdings
+      Basis Setup.Reconvert
+      Basis Setup.Set Basis Holdings
+      Basis Setup.Setup
+      Basis Setup.View Non-Converted Securities
+      Cash Activity.Close Account
+      Cash Activity.Deposit / Withdrawal
+      Cash Activity.Sweep
+      Companies.Company Add
+      Companies.Company Groups Setup
+      Companies.Company Setup
+      Corporate Actions.Capital Gain
+      Corporate Actions.Capital Infusion
+      Corporate Actions.Declared Dividend
+      Corporate Actions.Return of Capital
+      Corporate Actions.Stock Dividend
+      Corporate Actions.Stock Split
+      Corporate Restructures.Merger
+      Corporate Restructures.Spin-Off
+      Custom Reports.Add/Edit/Delete Derivative Reports
+      Custom Reports.Custom Derivative Reports
+      Custom Reports.Export Derivative Reports
+      Datalock.BasisLock 
+      Datalock.Company Lock
+      Datalock.Derivative Lock
+      Datalock.Security Lock
+      Derivatives G/L.G/L Edit in Inquire
+      Derivatives G/L.G/L Inquire
+      Derivatives G/L.G/L Setup
+      Derivatives Inquire.Derivatives Inquire
+      Derivatives.Close Position - Exercise
+      Derivatives.Close Position - Expire
+      Derivatives.Close Position - Offset
+      Derivatives.Close Position - Terminate
+      Derivatives.Derivative Pricing
+      Derivatives.Derivative Reval
+      Derivatives.Edit Position
+      Derivatives.Edit Transaction
+      Derivatives.Hedge
+      Derivatives.Open Position - IDS
+      Derivatives.Open Position - New
+      Derivatives.Overrides
+      Edit Across Companies.Company Group Info
+      Edit Across Companies.Der Company Group Info
+      Edit Across Companies.Edit Master Info
+      Edit Across Companies.Global Data Table
+      Edit Across Companies.Security Info
+      Edit.Delete Corp Restructures
+      Edit.Lot/Basis Info
+      Edit.Overrides
+      Edit.Reprocess Lots
+      Edit.Transactions
+      Edit.Write Downs
+      Families.Delete Reporting Period
+      Families.Family Setup
+      Families.RSA Reporting Archive
+      Families.Reporting Period Archive
+      Foreign Currency.Currency Revaluation
+      Foreign Currency.Update History
+      Foreign Currency.Update Rates
+      General Ledger.G/L Edit in Inquire
+      General Ledger.G/L Inquire
+      General Ledger.G/L Processing
+      General Ledger.G/L Setup
+      Impairment Identification.Setup
+      Inflation Protected Securities.Index Values
+      Inflation Protected Securities.Inflation Adjustment
+      Period Close.Freeform Period Close
+      Period Close.Open Future Period
+      Period Close.Period Close
+      Period Close.Period Close Config
+      Report Data Manager.Force Refresh - Derivative
+      Report Data Manager.Force Refresh - Security
+      Report Data Manager.Manager
+      Reporting.iWorks Performance Data Manager
+      Reporting.iWorks Performance Reporting
+      SVO.AVS Export
+      SVO.AVS Import/SVO Analysis
+      SVO.Deadline/Follow-Up Dates
+      Settings.CECL Pool Maintenance
+      Settings.Custom Derivative Fields Setup
+      Settings.Custom Report Fields Setup
+      Settings.EPR Setup
+      Settings.New Format - Import
+      Settings.Regulatory Prior Year
+      Settings.System Setup
+      Settings.User Administration
+      Settings.User Permissions
+      Settings.iWORKS Setup
+      Settings.iWorks Performance Setup
+      Table Maintenance.Add New Entries
+      Table Maintenance.Delete Entries
+      Table Maintenance.Edit Existing Entries
+      Templates.Acquisition
+      Templates.Acquisition Template Management
+      Templates.Derivatives
+      Templates.Derivatives Template Management
+      Templates.UAT Defaults
+      Tools.Purge
+      Tools.Verification
+      UAT.Edit Format
+      UAT.Export - Derivatives
+      UAT.Export - Security
+      UAT.Import
+      UAT.Import Custodial Formats
+      UAT.New Format - Derivative
+      UAT.New Format - Schedule
+      UAT.New Format - Security
+      UAT.New Format - Tables
+      UAT.Pending Queue - Derivatives
+      UAT.Pending Queue - Securities
+      UAT.Pending Queue - Tables
+      UAT.Pricing
+      UAT.Ratings
+      UAT.Setup Custodial Formats
+      Updates.Automatic Updates
+      Updates.Manual Updates
+
+   Has Access To The Following Processes:
+   ======================================================
+      Custom Reports.Add/Edit/Delete Security Reports
+      Custom Reports.Custom Security Reports
+      Custom Reports.Export Security Reports
+      Custom Reports.Import Custom Reports
+      Impairment Identification.Analysis
+      Impairment Identification.Reporting
+      Inquire.Default Views
+      Inquire.Inquire
+      Inquire.Inter-Company Transfer
+      Inquire.View Component Setup
+      Inquire.Views Management
+      Inquire.Views Setup
+      Login.Period Login
+      Report Data Manager.Compliance
+      Reporting.Archived Reports
+      Reporting.Batch Reporting
+      Reporting.Derivative Reports
+      Reporting.EPR
+      Reporting.Permissions Report
+      Reporting.Regulatory - Derivative
+      Reporting.Regulatory - Security
+      Reporting.STAT Disclosure Reports
+      Reporting.Security Reports
+      Reporting.Tax Reports
+      Reporting.User Audits
+
+Permissions Report Run: 12-23-2020 12:56:56
+
+==================================================================
+IMHSNA\MJM2580WBC (Set as Single Sign On)
+==================================================================
+
+   User Settings
+   ======================================================
+      Account Status: Unlocked, Enabled
+      No Administrative Rights
+      User may access Investments modules
+
+   Does NOT have Access To The Following Companies:
+   ======================================================
+
+   Has Access To The Following Companies:
+   ======================================================
+      WBMI: West Bend Mutual Insurance Company
+
+   Does NOT have Access To The Following Processes:
+   ======================================================
+      Accounting.Add Expected
+      Accounting.Add Unexpected
+      Accounting.Convert Security
+      Accounting.Convert Security
+      Accounting.Derivative Add Expected
+      Accounting.Derivative Post Payments
+      Accounting.Disposals
+      Accounting.Initial Data Setup
+      Accounting.Inter-Company Transfer
+      Accounting.New Acquisition
+      Accounting.New Acquisition - Cash
+      Accounting.Post Payments
+      Accounting.Regenerate Expected
+      Accounting.Rollover/Reinvest
+      Accounting.Write Down
+      Asset Seg.Asset Seg Setup
+      Asset Seg.Edit Allocation
+      Asset Seg.Edit Transfers
+      Asset Seg.Global Transfer
+      Asset Seg.Remove From Companies
+      Asset Seg.Transfer
+      Basis Setup.Activation
+      Basis Setup.Copy Basis
+      Basis Setup.Delete
+      Basis Setup.Process Basis Holdings
+      Basis Setup.Reconvert
+      Basis Setup.Set Basis Holdings
+      Basis Setup.Setup
+      Basis Setup.View Non-Converted Securities
+      Cash Activity.Close Account
+      Cash Activity.Deposit / Withdrawal
+      Cash Activity.Sweep
+      Companies.Company Add
+      Companies.Company Groups Setup
+      Companies.Company Setup
+      Corporate Actions.Capital Gain
+      Corporate Actions.Capital Infusion
+      Corporate Actions.Declared Dividend
+      Corporate Actions.Return of Capital
+      Corporate Actions.Stock Dividend
+      Corporate Actions.Stock Split
+      Corporate Restructures.Merger
+      Corporate Restructures.Spin-Off
+      Custom Reports.Add/Edit/Delete Derivative Reports
+      Custom Reports.Custom Derivative Reports
+      Custom Reports.Export Derivative Reports
+      Datalock.BasisLock 
+      Datalock.Company Lock
+      Datalock.Derivative Lock
+      Datalock.Security Lock
+      Derivatives G/L.G/L Edit in Inquire
+      Derivatives G/L.G/L Inquire
+      Derivatives G/L.G/L Setup
+      Derivatives Inquire.Derivatives Inquire
+      Derivatives.Close Position - Exercise
+      Derivatives.Close Position - Expire
+      Derivatives.Close Position - Offset
+      Derivatives.Close Position - Terminate
+      Derivatives.Derivative Pricing
+      Derivatives.Derivative Reval
+      Derivatives.Edit Position
+      Derivatives.Edit Transaction
+      Derivatives.Hedge
+      Derivatives.Open Position - IDS
+      Derivatives.Open Position - New
+      Derivatives.Overrides
+      Edit Across Companies.Company Group Info
+      Edit Across Companies.Der Company Group Info
+      Edit Across Companies.Edit Master Info
+      Edit Across Companies.Global Data Table
+      Edit Across Companies.Security Info
+      Edit.Delete Corp Restructures
+      Edit.Lot/Basis Info
+      Edit.Overrides
+      Edit.Reprocess Lots
+      Edit.Transactions
+      Edit.Write Downs
+      Families.Delete Reporting Period
+      Families.Family Setup
+      Families.RSA Reporting Archive
+      Families.Reporting Period Archive
+      Foreign Currency.Currency Revaluation
+      Foreign Currency.Update History
+      Foreign Currency.Update Rates
+      General Ledger.G/L Edit in Inquire
+      General Ledger.G/L Inquire
+      General Ledger.G/L Processing
+      General Ledger.G/L Setup
+      Impairment Identification.Setup
+      Inflation Protected Securities.Index Values
+      Inflation Protected Securities.Inflation Adjustment
+      Period Close.Freeform Period Close
+      Period Close.Open Future Period
+      Period Close.Period Close
+      Period Close.Period Close Config
+      Report Data Manager.Force Refresh - Derivative
+      Report Data Manager.Force Refresh - Security
+      Report Data Manager.Manager
+      Reporting.iWorks Performance Data Manager
+      Reporting.iWorks Performance Reporting
+      SVO.AVS Export
+      SVO.AVS Import/SVO Analysis
+      SVO.Deadline/Follow-Up Dates
+      Settings.CECL Pool Maintenance
+      Settings.Custom Derivative Fields Setup
+      Settings.Custom Report Fields Setup
+      Settings.EPR Setup
+      Settings.New Format - Import
+      Settings.Regulatory Prior Year
+      Settings.System Setup
+      Settings.User Administration
+      Settings.User Permissions
+      Settings.iWORKS Setup
+      Settings.iWorks Performance Setup
+      Table Maintenance.Add New Entries
+      Table Maintenance.Delete Entries
+      Table Maintenance.Edit Existing Entries
+      Templates.Acquisition
+      Templates.Acquisition Template Management
+      Templates.Derivatives
+      Templates.Derivatives Template Management
+      Templates.UAT Defaults
+      Tools.Purge
+      Tools.Verification
+      UAT.Edit Format
+      UAT.Export - Derivatives
+      UAT.Export - Security
+      UAT.Import
+      UAT.Import Custodial Formats
+      UAT.New Format - Derivative
+      UAT.New Format - Schedule
+      UAT.New Format - Security
+      UAT.New Format - Tables
+      UAT.Pending Queue - Derivatives
+      UAT.Pending Queue - Securities
+      UAT.Pending Queue - Tables
+      UAT.Pricing
+      UAT.Ratings
+      UAT.Setup Custodial Formats
+      Updates.Automatic Updates
+      Updates.Manual Updates
+
+   Has Access To The Following Processes:
+   ======================================================
+      Custom Reports.Add/Edit/Delete Security Reports
+      Custom Reports.Custom Security Reports
+      Custom Reports.Export Security Reports
+      Custom Reports.Import Custom Reports
+      Impairment Identification.Analysis
+      Impairment Identification.Reporting
+      Inquire.Default Views
+      Inquire.Inquire
+      Inquire.Inter-Company Transfer
+      Inquire.View Component Setup
+      Inquire.Views Management
+      Inquire.Views Setup
+      Login.Period Login
+      Report Data Manager.Compliance
+      Reporting.Archived Reports
+      Reporting.Batch Reporting
+      Reporting.Derivative Reports
+      Reporting.EPR
+      Reporting.Permissions Report
+      Reporting.Regulatory - Derivative
+      Reporting.Regulatory - Security
+      Reporting.STAT Disclosure Reports
+      Reporting.Security Reports
+      Reporting.Tax Reports
+      Reporting.User Audits
+

@@ -1,0 +1,1065 @@
+Username,Role,Description
+ABuddenhagen@WBMI.com,BILLERCSR,'Home' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,'Contact' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,'Reports' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,'Aging Report' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,'Scheduled Payments' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,'Payment History' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,'Call Status' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,'Activity Report' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,'Settlement Report' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,'Audit Report' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,Allow on-behalf payments
+ABuddenhagen@WBMI.com,BILLERCSR,Allow payment reversals
+ABuddenhagen@WBMI.com,BILLERCSR,'Support' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,'File Transfer' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,'Upload History' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,'FTP Setup' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,Allow payment cancellation
+ABuddenhagen@WBMI.com,BILLERCSR,'Reconciliation Report' Navbar Button
+ABuddenhagen@WBMI.com,BILLERCSR,Allow recurring payments set up
+ABuddenhagen@WBMI.com,BILLERCSR,'Message Report' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Home' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Contact' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Admin Profile' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'User Admin' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Entitlements' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Entitlements for Users' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Entitlements for Roles' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Reports' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Aging Report' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Scheduled Payments' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Payment History' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Call Status' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Activity Report' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Settlement Report' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Audit Report' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,Allow on-behalf payments
+AGriffin@WBMI.com,BILLERADMIN,Allow payment reversals
+AGriffin@WBMI.com,BILLERADMIN,'Support' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Biller Group' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Configure Email' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,Link to the administration site
+AGriffin@WBMI.com,BILLERADMIN,'File Transfer' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Upload History' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'FTP Setup' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Developer Home' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Wizard' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Test Uploads' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Test Bill' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Test Account' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Upload Tests' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'FTP Test' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Email Setup' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Jobs Setup' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Biller Properties' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Payment Parameters' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Developer Contact' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,Allow payment cancellation
+AGriffin@WBMI.com,BILLERADMIN,'Reconciliation Report' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,Allow recurring payments set up
+AGriffin@WBMI.com,BILLERADMIN,'Message Report' Navbar Button
+AGriffin@WBMI.com,BILLERADMIN,'Enrollment Report' Navbar Button
+AKluever@WBMI.com,BILLERCSR,'Home' Navbar Button
+AKluever@WBMI.com,BILLERCSR,'Contact' Navbar Button
+AKluever@WBMI.com,BILLERCSR,'Reports' Navbar Button
+AKluever@WBMI.com,BILLERCSR,'Aging Report' Navbar Button
+AKluever@WBMI.com,BILLERCSR,'Scheduled Payments' Navbar Button
+AKluever@WBMI.com,BILLERCSR,'Payment History' Navbar Button
+AKluever@WBMI.com,BILLERCSR,'Call Status' Navbar Button
+AKluever@WBMI.com,BILLERCSR,'Activity Report' Navbar Button
+AKluever@WBMI.com,BILLERCSR,'Settlement Report' Navbar Button
+AKluever@WBMI.com,BILLERCSR,'Audit Report' Navbar Button
+AKluever@WBMI.com,BILLERCSR,Allow on-behalf payments
+AKluever@WBMI.com,BILLERCSR,Allow payment reversals
+AKluever@WBMI.com,BILLERCSR,'Support' Navbar Button
+AKluever@WBMI.com,BILLERCSR,'File Transfer' Navbar Button
+AKluever@WBMI.com,BILLERCSR,'Upload History' Navbar Button
+AKluever@WBMI.com,BILLERCSR,'FTP Setup' Navbar Button
+AKluever@WBMI.com,BILLERCSR,Allow payment cancellation
+AKluever@WBMI.com,BILLERCSR,'Reconciliation Report' Navbar Button
+AKluever@WBMI.com,BILLERCSR,Allow recurring payments set up
+AKluever@WBMI.com,BILLERCSR,'Message Report' Navbar Button
+ATackman@wbmi.com,BILLERCSR,'Home' Navbar Button
+ATackman@wbmi.com,BILLERCSR,'Contact' Navbar Button
+ATackman@wbmi.com,BILLERCSR,'Reports' Navbar Button
+ATackman@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+ATackman@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+ATackman@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+ATackman@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+ATackman@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+ATackman@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+ATackman@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+ATackman@wbmi.com,BILLERCSR,Allow on-behalf payments
+ATackman@wbmi.com,BILLERCSR,Allow payment reversals
+ATackman@wbmi.com,BILLERCSR,'Support' Navbar Button
+ATackman@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+ATackman@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+ATackman@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+ATackman@wbmi.com,BILLERCSR,Allow payment cancellation
+ATackman@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+ATackman@wbmi.com,BILLERCSR,Allow recurring payments set up
+ATackman@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Home' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Contact' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Admin Profile' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'User Admin' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Entitlements' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Entitlements for Users' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Entitlements for Roles' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Reports' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Aging Report' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Scheduled Payments' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Payment History' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Call Status' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Activity Report' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Settlement Report' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Audit Report' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,Allow on-behalf payments
+aaawadmin@wbmi.com,BILLERADMIN,Allow payment reversals
+aaawadmin@wbmi.com,BILLERADMIN,'Support' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Biller Group' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Configure Email' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,Link to the administration site
+aaawadmin@wbmi.com,BILLERADMIN,'File Transfer' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Upload History' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'FTP Setup' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Developer Home' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Wizard' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Test Uploads' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Test Bill' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Test Account' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Upload Tests' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'FTP Test' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Email Setup' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Jobs Setup' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Biller Properties' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Payment Parameters' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Developer Contact' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,Allow payment cancellation
+aaawadmin@wbmi.com,BILLERADMIN,'Reconciliation Report' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,Allow recurring payments set up
+aaawadmin@wbmi.com,BILLERADMIN,'Message Report' Navbar Button
+aaawadmin@wbmi.com,BILLERADMIN,'Enrollment Report' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Home' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Contact' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Admin Profile' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'User Admin' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Entitlements' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Entitlements for Users' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Entitlements for Roles' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Reports' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Aging Report' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Scheduled Payments' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Payment History' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Call Status' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Activity Report' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Settlement Report' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Audit Report' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,Allow on-behalf payments
+CWahl@WBMI.com,BILLERADMIN,Allow payment reversals
+CWahl@WBMI.com,BILLERADMIN,'Support' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Biller Group' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Configure Email' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,Link to the administration site
+CWahl@WBMI.com,BILLERADMIN,'File Transfer' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Upload History' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'FTP Setup' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Developer Home' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Wizard' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Test Uploads' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Test Bill' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Test Account' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Upload Tests' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'FTP Test' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Email Setup' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Jobs Setup' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Biller Properties' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Payment Parameters' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Developer Contact' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,Allow payment cancellation
+CWahl@WBMI.com,BILLERADMIN,'Reconciliation Report' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,Allow recurring payments set up
+CWahl@WBMI.com,BILLERADMIN,'Message Report' Navbar Button
+CWahl@WBMI.com,BILLERADMIN,'Enrollment Report' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,'Home' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,'Contact' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,'Reports' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,'Aging Report' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,'Scheduled Payments' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,'Payment History' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,'Call Status' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,'Activity Report' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,'Settlement Report' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,'Audit Report' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,Allow on-behalf payments
+CWendelborn@WBMI.com,BILLERCSR,Allow payment reversals
+CWendelborn@WBMI.com,BILLERCSR,'Support' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,'File Transfer' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,'Upload History' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,'FTP Setup' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,Allow payment cancellation
+CWendelborn@WBMI.com,BILLERCSR,'Reconciliation Report' Navbar Button
+CWendelborn@WBMI.com,BILLERCSR,Allow recurring payments set up
+CWendelborn@WBMI.com,BILLERCSR,'Message Report' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,'Home' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,'Contact' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,'Admin Profile' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,'User Admin' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,'Entitlements' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,'Entitlements for Users' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,'Entitlements for Roles' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,'Reports' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,'Biller Group' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,'Configure Email' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,Link to the administration site
+DButzke@wbmi.com,BILLERADMIN,'File Transfer' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,'Upload History' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,'FTP Setup' Navbar Button
+DButzke@wbmi.com,BILLERADMIN,'Enrollment Report' Navbar Button
+DCasey@wbmi.com,BILLERCSR,'Home' Navbar Button
+DCasey@wbmi.com,BILLERCSR,'Contact' Navbar Button
+DCasey@wbmi.com,BILLERCSR,'Reports' Navbar Button
+DCasey@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+DCasey@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+DCasey@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+DCasey@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+DCasey@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+DCasey@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+DCasey@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+DCasey@wbmi.com,BILLERCSR,Allow on-behalf payments
+DCasey@wbmi.com,BILLERCSR,Allow payment reversals
+DCasey@wbmi.com,BILLERCSR,'Support' Navbar Button
+DCasey@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+DCasey@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+DCasey@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+DCasey@wbmi.com,BILLERCSR,Allow payment cancellation
+DCasey@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+DCasey@wbmi.com,BILLERCSR,Allow recurring payments set up
+DCasey@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,'Home' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,'Contact' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,'Reports' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,Allow on-behalf payments
+DGullickson@wbmi.com,BILLERCSR,Allow payment reversals
+DGullickson@wbmi.com,BILLERCSR,'Support' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,Allow payment cancellation
+DGullickson@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+DGullickson@wbmi.com,BILLERCSR,Allow recurring payments set up
+DGullickson@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+DKeller@wbmi.com,BILLERCSR,'Home' Navbar Button
+DKeller@wbmi.com,BILLERCSR,'Contact' Navbar Button
+DKeller@wbmi.com,BILLERCSR,'Reports' Navbar Button
+DKeller@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+DKeller@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+DKeller@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+DKeller@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+DKeller@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+DKeller@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+DKeller@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+DKeller@wbmi.com,BILLERCSR,Allow on-behalf payments
+DKeller@wbmi.com,BILLERCSR,Allow payment reversals
+DKeller@wbmi.com,BILLERCSR,'Support' Navbar Button
+DKeller@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+DKeller@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+DKeller@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+DKeller@wbmi.com,BILLERCSR,Allow payment cancellation
+DKeller@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+DKeller@wbmi.com,BILLERCSR,Allow recurring payments set up
+DKeller@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+DStenz@wbmi.com,BILLERCSR,'Home' Navbar Button
+DStenz@wbmi.com,BILLERCSR,'Contact' Navbar Button
+DStenz@wbmi.com,BILLERCSR,'Reports' Navbar Button
+DStenz@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+DStenz@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+DStenz@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+DStenz@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+DStenz@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+DStenz@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+DStenz@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+DStenz@wbmi.com,BILLERCSR,Allow on-behalf payments
+DStenz@wbmi.com,BILLERCSR,Allow payment reversals
+DStenz@wbmi.com,BILLERCSR,'Support' Navbar Button
+DStenz@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+DStenz@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+DStenz@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+DStenz@wbmi.com,BILLERCSR,Allow payment cancellation
+DStenz@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+DStenz@wbmi.com,BILLERCSR,Allow recurring payments set up
+DStenz@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+DStern@wbmi.com,BILLERCSR,'Home' Navbar Button
+DStern@wbmi.com,BILLERCSR,'Contact' Navbar Button
+DStern@wbmi.com,BILLERCSR,'Reports' Navbar Button
+DStern@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+DStern@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+DStern@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+DStern@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+DStern@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+DStern@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+DStern@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+DStern@wbmi.com,BILLERCSR,Allow on-behalf payments
+DStern@wbmi.com,BILLERCSR,Allow payment reversals
+DStern@wbmi.com,BILLERCSR,'Support' Navbar Button
+DStern@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+DStern@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+DStern@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+DStern@wbmi.com,BILLERCSR,Allow payment cancellation
+DStern@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+DStern@wbmi.com,BILLERCSR,Allow recurring payments set up
+DStern@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'Home' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'Contact' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'Admin Profile' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'User Admin' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'Entitlements' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'Entitlements for Users' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'Entitlements for Roles' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'Reports' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'Audit Report' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'Biller Group' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'Configure Email' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,Link to the administration site
+DZemlicka@wbmi.com,BILLERADMIN,'File Transfer' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'Upload History' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'FTP Setup' Navbar Button
+DZemlicka@wbmi.com,BILLERADMIN,'Enrollment Report' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,'Home' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,'Contact' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,'Reports' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,'Aging Report' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,'Scheduled Payments' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,'Payment History' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,'Call Status' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,'Activity Report' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,'Settlement Report' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,'Audit Report' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,Allow on-behalf payments
+EGriffin@WBMI.com,BILLERCSR,Allow payment reversals
+EGriffin@WBMI.com,BILLERCSR,'Support' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,'File Transfer' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,'Upload History' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,'FTP Setup' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,Allow payment cancellation
+EGriffin@WBMI.com,BILLERCSR,'Reconciliation Report' Navbar Button
+EGriffin@WBMI.com,BILLERCSR,Allow recurring payments set up
+EGriffin@WBMI.com,BILLERCSR,'Message Report' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Home' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Contact' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Admin Profile' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'User Admin' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Entitlements' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Entitlements for Users' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Entitlements for Roles' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Reports' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Aging Report' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Scheduled Payments' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Payment History' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Call Status' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Activity Report' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Settlement Report' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Audit Report' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,Allow on-behalf payments
+EHinkley@WBMI.com,BILLERADMIN,Allow payment reversals
+EHinkley@WBMI.com,BILLERADMIN,'Support' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Biller Group' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Configure Email' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,Link to the administration site
+EHinkley@WBMI.com,BILLERADMIN,'File Transfer' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Upload History' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'FTP Setup' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Developer Home' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Wizard' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Test Uploads' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Test Bill' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Test Account' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Upload Tests' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'FTP Test' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Email Setup' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Jobs Setup' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Biller Properties' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Payment Parameters' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Developer Contact' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,Allow payment cancellation
+EHinkley@WBMI.com,BILLERADMIN,'Reconciliation Report' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,Allow recurring payments set up
+EHinkley@WBMI.com,BILLERADMIN,'Message Report' Navbar Button
+EHinkley@WBMI.com,BILLERADMIN,'Enrollment Report' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'Home' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'Contact' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'Admin Profile' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'User Admin' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'Entitlements' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'Entitlements for Users' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'Entitlements for Roles' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'Reports' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'Audit Report' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'Biller Group' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'Configure Email' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,Link to the administration site
+JBeine@wbmi.com,BILLERADMIN,'File Transfer' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'Upload History' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'FTP Setup' Navbar Button
+JBeine@wbmi.com,BILLERADMIN,'Enrollment Report' Navbar Button
+JBuss@wbmi.com,BILLERCSR,'Home' Navbar Button
+JBuss@wbmi.com,BILLERCSR,'Contact' Navbar Button
+JBuss@wbmi.com,BILLERCSR,'Reports' Navbar Button
+JBuss@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+JBuss@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+JBuss@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+JBuss@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+JBuss@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+JBuss@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+JBuss@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+JBuss@wbmi.com,BILLERCSR,Allow on-behalf payments
+JBuss@wbmi.com,BILLERCSR,Allow payment reversals
+JBuss@wbmi.com,BILLERCSR,'Support' Navbar Button
+JBuss@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+JBuss@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+JBuss@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+JBuss@wbmi.com,BILLERCSR,Allow payment cancellation
+JBuss@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+JBuss@wbmi.com,BILLERCSR,Allow recurring payments set up
+JBuss@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+JDahm@wbmi.com,BILLERCSR,'Home' Navbar Button
+JDahm@wbmi.com,BILLERCSR,'Contact' Navbar Button
+JDahm@wbmi.com,BILLERCSR,'Reports' Navbar Button
+JDahm@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+JDahm@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+JDahm@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+JDahm@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+JDahm@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+JDahm@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+JDahm@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+JDahm@wbmi.com,BILLERCSR,Allow on-behalf payments
+JDahm@wbmi.com,BILLERCSR,Allow payment reversals
+JDahm@wbmi.com,BILLERCSR,'Support' Navbar Button
+JDahm@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+JDahm@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+JDahm@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+JDahm@wbmi.com,BILLERCSR,Allow payment cancellation
+JDahm@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+JDahm@wbmi.com,BILLERCSR,Allow recurring payments set up
+JDahm@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+JDavis@wbmi.com,BILLERCSR,'Home' Navbar Button
+JDavis@wbmi.com,BILLERCSR,'Contact' Navbar Button
+JDavis@wbmi.com,BILLERCSR,'Reports' Navbar Button
+JDavis@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+JDavis@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+JDavis@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+JDavis@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+JDavis@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+JDavis@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+JDavis@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+JDavis@wbmi.com,BILLERCSR,Allow on-behalf payments
+JDavis@wbmi.com,BILLERCSR,Allow payment reversals
+JDavis@wbmi.com,BILLERCSR,'Support' Navbar Button
+JDavis@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+JDavis@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+JDavis@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+JDavis@wbmi.com,BILLERCSR,Allow payment cancellation
+JDavis@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+JDavis@wbmi.com,BILLERCSR,Allow recurring payments set up
+JDavis@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,'Home' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,'Contact' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,'Reports' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,Allow on-behalf payments
+JDraxler@wbmi.com,BILLERCSR,Allow payment reversals
+JDraxler@wbmi.com,BILLERCSR,'Support' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,Allow payment cancellation
+JDraxler@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+JDraxler@wbmi.com,BILLERCSR,Allow recurring payments set up
+JDraxler@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+JHammen@wbmi.com,BILLERCSR,'Home' Navbar Button
+JHammen@wbmi.com,BILLERCSR,'Contact' Navbar Button
+JHammen@wbmi.com,BILLERCSR,'Reports' Navbar Button
+JHammen@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+JHammen@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+JHammen@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+JHammen@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+JHammen@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+JHammen@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+JHammen@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+JHammen@wbmi.com,BILLERCSR,Allow on-behalf payments
+JHammen@wbmi.com,BILLERCSR,Allow payment reversals
+JHammen@wbmi.com,BILLERCSR,'Support' Navbar Button
+JHammen@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+JHammen@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+JHammen@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+JHammen@wbmi.com,BILLERCSR,Allow payment cancellation
+JHammen@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+JHammen@wbmi.com,BILLERCSR,Allow recurring payments set up
+JHammen@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'Home' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'Contact' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'Reports' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,Allow on-behalf payments
+JLFlitter@wbmi.com,BILLERCSR,Allow payment reversals
+JLFlitter@wbmi.com,BILLERCSR,'Support' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,Allow payment cancellation
+JLFlitter@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,Allow recurring payments set up
+JLFlitter@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+JLFlitter@wbmi.com,BILLERCSR,'Enrollment Report' Navbar Button
+jritger@wbmi.com,BILLERCSR,'Home' Navbar Button
+jritger@wbmi.com,BILLERCSR,'Contact' Navbar Button
+jritger@wbmi.com,BILLERCSR,'Reports' Navbar Button
+jritger@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+jritger@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+jritger@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+jritger@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+jritger@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+jritger@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+jritger@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+jritger@wbmi.com,BILLERCSR,Allow on-behalf payments
+jritger@wbmi.com,BILLERCSR,Allow payment reversals
+jritger@wbmi.com,BILLERCSR,'Support' Navbar Button
+jritger@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+jritger@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+jritger@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+jritger@wbmi.com,BILLERCSR,Allow payment cancellation
+jritger@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+jritger@wbmi.com,BILLERCSR,Allow recurring payments set up
+jritger@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+KGonring@WBMI.com,BILLERCSR,'Home' Navbar Button
+KGonring@WBMI.com,BILLERCSR,'Contact' Navbar Button
+KGonring@WBMI.com,BILLERCSR,'Reports' Navbar Button
+KGonring@WBMI.com,BILLERCSR,'Aging Report' Navbar Button
+KGonring@WBMI.com,BILLERCSR,'Scheduled Payments' Navbar Button
+KGonring@WBMI.com,BILLERCSR,'Payment History' Navbar Button
+KGonring@WBMI.com,BILLERCSR,'Call Status' Navbar Button
+KGonring@WBMI.com,BILLERCSR,'Activity Report' Navbar Button
+KGonring@WBMI.com,BILLERCSR,'Settlement Report' Navbar Button
+KGonring@WBMI.com,BILLERCSR,'Audit Report' Navbar Button
+KGonring@WBMI.com,BILLERCSR,Allow on-behalf payments
+KGonring@WBMI.com,BILLERCSR,Allow payment reversals
+KGonring@WBMI.com,BILLERCSR,'Support' Navbar Button
+KGonring@WBMI.com,BILLERCSR,'File Transfer' Navbar Button
+KGonring@WBMI.com,BILLERCSR,'Upload History' Navbar Button
+KGonring@WBMI.com,BILLERCSR,'FTP Setup' Navbar Button
+KGonring@WBMI.com,BILLERCSR,Allow payment cancellation
+KGonring@WBMI.com,BILLERCSR,'Reconciliation Report' Navbar Button
+KGonring@WBMI.com,BILLERCSR,Allow recurring payments set up
+KGonring@WBMI.com,BILLERCSR,'Message Report' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,'Home' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,'Contact' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,'Reports' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,Allow on-behalf payments
+KIsselman@wbmi.com,BILLERCSR,Allow payment reversals
+KIsselman@wbmi.com,BILLERCSR,'Support' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,Allow payment cancellation
+KIsselman@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+KIsselman@wbmi.com,BILLERCSR,Allow recurring payments set up
+KIsselman@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,'Home' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,'Contact' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,'Reports' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,Allow on-behalf payments
+KKollmansberger@wbmi.com,BILLERCSR,Allow payment reversals
+KKollmansberger@wbmi.com,BILLERCSR,'Support' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,Allow payment cancellation
+KKollmansberger@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+KKollmansberger@wbmi.com,BILLERCSR,Allow recurring payments set up
+KKollmansberger@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+KMinney@wbmi.com,BILLERCSR,'Home' Navbar Button
+KMinney@wbmi.com,BILLERCSR,'Contact' Navbar Button
+KMinney@wbmi.com,BILLERCSR,'Reports' Navbar Button
+KMinney@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+KMinney@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+KMinney@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+KMinney@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+KMinney@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+KMinney@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+KMinney@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+KMinney@wbmi.com,BILLERCSR,Allow on-behalf payments
+KMinney@wbmi.com,BILLERCSR,Allow payment reversals
+KMinney@wbmi.com,BILLERCSR,'Support' Navbar Button
+KMinney@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+KMinney@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+KMinney@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+KMinney@wbmi.com,BILLERCSR,Allow payment cancellation
+KMinney@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+KMinney@wbmi.com,BILLERCSR,Allow recurring payments set up
+KMinney@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,'Home' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,'Contact' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,'Reports' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,'Aging Report' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,'Scheduled Payments' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,'Payment History' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,'Call Status' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,'Activity Report' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,'Settlement Report' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,'Audit Report' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,Allow on-behalf payments
+KSkilling@WBMI.com,BILLERCSR,Allow payment reversals
+KSkilling@WBMI.com,BILLERCSR,'Support' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,'File Transfer' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,'Upload History' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,'FTP Setup' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,Allow payment cancellation
+KSkilling@WBMI.com,BILLERCSR,'Reconciliation Report' Navbar Button
+KSkilling@WBMI.com,BILLERCSR,Allow recurring payments set up
+KSkilling@WBMI.com,BILLERCSR,'Message Report' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,'Home' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,'Contact' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,'Reports' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,Allow on-behalf payments
+LAnderson@wbmi.com,BILLERCSR,Allow payment reversals
+LAnderson@wbmi.com,BILLERCSR,'Support' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,Allow payment cancellation
+LAnderson@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+LAnderson@wbmi.com,BILLERCSR,Allow recurring payments set up
+LAnderson@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+LHeine@wbmi.com,BILLERCSR,'Home' Navbar Button
+LHeine@wbmi.com,BILLERCSR,'Contact' Navbar Button
+LHeine@wbmi.com,BILLERCSR,'Reports' Navbar Button
+LHeine@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+LHeine@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+LHeine@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+LHeine@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+LHeine@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+LHeine@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+LHeine@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+LHeine@wbmi.com,BILLERCSR,Allow on-behalf payments
+LHeine@wbmi.com,BILLERCSR,Allow payment reversals
+LHeine@wbmi.com,BILLERCSR,'Support' Navbar Button
+LHeine@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+LHeine@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+LHeine@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+LHeine@wbmi.com,BILLERCSR,Allow payment cancellation
+LHeine@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+LHeine@wbmi.com,BILLERCSR,Allow recurring payments set up
+LHeine@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,'Home' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,'Contact' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,'Reports' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,Allow on-behalf payments
+lbeimborn@wbmi.com,BILLERCSR,Allow payment reversals
+lbeimborn@wbmi.com,BILLERCSR,'Support' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,Allow payment cancellation
+lbeimborn@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+lbeimborn@wbmi.com,BILLERCSR,Allow recurring payments set up
+lbeimborn@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+MSchaible@wbmi.com,BILLERCSR,'Home' Navbar Button
+MSchaible@wbmi.com,BILLERCSR,'Contact' Navbar Button
+MSchaible@wbmi.com,BILLERCSR,'Reports' Navbar Button
+MSchaible@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+MSchaible@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+MSchaible@wbmi.com,BILLERCSR,Allow on-behalf payments
+MSchaible@wbmi.com,BILLERCSR,'Support' Navbar Button
+MSchaible@wbmi.com,BILLERCSR,Allow payment cancellation
+MSchaible@wbmi.com,BILLERCSR,Allow recurring payments set up
+PKollmansberger@wbmi.com,BILLERCSR,'Home' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,'Contact' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,'Reports' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,Allow on-behalf payments
+PKollmansberger@wbmi.com,BILLERCSR,Allow payment reversals
+PKollmansberger@wbmi.com,BILLERCSR,'Support' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,Allow payment cancellation
+PKollmansberger@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+PKollmansberger@wbmi.com,BILLERCSR,Allow recurring payments set up
+PKollmansberger@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,'Home' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,'Contact' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,'Reports' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,Allow on-behalf payments
+pmcnulty@wbmi.com,BILLERCSR,Allow payment reversals
+pmcnulty@wbmi.com,BILLERCSR,'Support' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,Allow payment cancellation
+pmcnulty@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+pmcnulty@wbmi.com,BILLERCSR,Allow recurring payments set up
+pmcnulty@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,'Home' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,'Contact' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,'Reports' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,Allow on-behalf payments
+RFriedemann@wbmi.com,BILLERCSR,Allow payment reversals
+RFriedemann@wbmi.com,BILLERCSR,'Support' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,Allow payment cancellation
+RFriedemann@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+RFriedemann@wbmi.com,BILLERCSR,Allow recurring payments set up
+RFriedemann@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+RGroom@WBMI.com,BILLERCSR,'Home' Navbar Button
+RGroom@WBMI.com,BILLERCSR,'Contact' Navbar Button
+RGroom@WBMI.com,BILLERCSR,'Reports' Navbar Button
+RGroom@WBMI.com,BILLERCSR,'Aging Report' Navbar Button
+RGroom@WBMI.com,BILLERCSR,'Scheduled Payments' Navbar Button
+RGroom@WBMI.com,BILLERCSR,'Payment History' Navbar Button
+RGroom@WBMI.com,BILLERCSR,'Call Status' Navbar Button
+RGroom@WBMI.com,BILLERCSR,'Activity Report' Navbar Button
+RGroom@WBMI.com,BILLERCSR,'Settlement Report' Navbar Button
+RGroom@WBMI.com,BILLERCSR,'Audit Report' Navbar Button
+RGroom@WBMI.com,BILLERCSR,Allow on-behalf payments
+RGroom@WBMI.com,BILLERCSR,Allow payment reversals
+RGroom@WBMI.com,BILLERCSR,'Support' Navbar Button
+RGroom@WBMI.com,BILLERCSR,'File Transfer' Navbar Button
+RGroom@WBMI.com,BILLERCSR,'Upload History' Navbar Button
+RGroom@WBMI.com,BILLERCSR,'FTP Setup' Navbar Button
+RGroom@WBMI.com,BILLERCSR,Allow payment cancellation
+RGroom@WBMI.com,BILLERCSR,'Reconciliation Report' Navbar Button
+RGroom@WBMI.com,BILLERCSR,Allow recurring payments set up
+RGroom@WBMI.com,BILLERCSR,'Message Report' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,'Home' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,'Contact' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,'Admin Profile' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,'User Admin' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,'Entitlements' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,'Entitlements for Users' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,'Entitlements for Roles' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,'Reports' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,'Biller Group' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,'Configure Email' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,Link to the administration site
+RTraut@WBMI.com,BILLERADMIN,'File Transfer' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,'Upload History' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,'FTP Setup' Navbar Button
+RTraut@WBMI.com,BILLERADMIN,'Enrollment Report' Navbar Button
+SCarter@wbmi.com,BILLERCSR,'Home' Navbar Button
+SCarter@wbmi.com,BILLERCSR,'Contact' Navbar Button
+SCarter@wbmi.com,BILLERCSR,'Reports' Navbar Button
+SCarter@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+SCarter@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+SCarter@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+SCarter@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+SCarter@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+SCarter@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+SCarter@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+SCarter@wbmi.com,BILLERCSR,Allow on-behalf payments
+SCarter@wbmi.com,BILLERCSR,Allow payment reversals
+SCarter@wbmi.com,BILLERCSR,'Support' Navbar Button
+SCarter@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+SCarter@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+SCarter@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+SCarter@wbmi.com,BILLERCSR,Allow payment cancellation
+SCarter@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+SCarter@wbmi.com,BILLERCSR,Allow recurring payments set up
+SCarter@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,'Home' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,'Contact' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,'Reports' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,Allow on-behalf payments
+SDaniel@wbmi.com,BILLERCSR,Allow payment reversals
+SDaniel@wbmi.com,BILLERCSR,'Support' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,Allow payment cancellation
+SDaniel@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+SDaniel@wbmi.com,BILLERCSR,Allow recurring payments set up
+SDaniel@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+SGremminger@wbmi.com,BILLERADMIN,'Home' Navbar Button
+SGremminger@wbmi.com,BILLERADMIN,'Admin Profile' Navbar Button
+SGremminger@wbmi.com,BILLERADMIN,'Reports' Navbar Button
+SGremminger@wbmi.com,BILLERADMIN,'Aging Report' Navbar Button
+SGremminger@wbmi.com,BILLERADMIN,'Activity Report' Navbar Button
+SGremminger@wbmi.com,BILLERADMIN,'Settlement Report' Navbar Button
+SGremminger@wbmi.com,BILLERADMIN,'Audit Report' Navbar Button
+SGremminger@wbmi.com,BILLERADMIN,'Reconciliation Report' Navbar Button
+SGremminger@wbmi.com,BILLERADMIN,'Message Report' Navbar Button
+SGremminger@wbmi.com,BILLERADMIN,'Enrollment Report' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,'Home' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,'Contact' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,'Reports' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,Allow on-behalf payments
+SGundrum@wbmi.com,BILLERCSR,Allow payment reversals
+SGundrum@wbmi.com,BILLERCSR,'Support' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,Allow payment cancellation
+SGundrum@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+SGundrum@wbmi.com,BILLERCSR,Allow recurring payments set up
+SGundrum@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+SJazak@wbmi.com,BILLERCSR,'Home' Navbar Button
+SJazak@wbmi.com,BILLERCSR,'Contact' Navbar Button
+SJazak@wbmi.com,BILLERCSR,'Reports' Navbar Button
+SJazak@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+SJazak@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+SJazak@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+SJazak@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+SJazak@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+SJazak@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+SJazak@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+SJazak@wbmi.com,BILLERCSR,Allow on-behalf payments
+SJazak@wbmi.com,BILLERCSR,Allow payment reversals
+SJazak@wbmi.com,BILLERCSR,'Support' Navbar Button
+SJazak@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+SJazak@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+SJazak@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+SJazak@wbmi.com,BILLERCSR,Allow payment cancellation
+SJazak@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+SJazak@wbmi.com,BILLERCSR,Allow recurring payments set up
+SJazak@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+SLester@WBMI.com,BILLERCSR,'Home' Navbar Button
+SLester@WBMI.com,BILLERCSR,'Contact' Navbar Button
+SLester@WBMI.com,BILLERCSR,'Reports' Navbar Button
+SLester@WBMI.com,BILLERCSR,'Aging Report' Navbar Button
+SLester@WBMI.com,BILLERCSR,'Scheduled Payments' Navbar Button
+SLester@WBMI.com,BILLERCSR,'Payment History' Navbar Button
+SLester@WBMI.com,BILLERCSR,'Call Status' Navbar Button
+SLester@WBMI.com,BILLERCSR,'Activity Report' Navbar Button
+SLester@WBMI.com,BILLERCSR,'Settlement Report' Navbar Button
+SLester@WBMI.com,BILLERCSR,'Audit Report' Navbar Button
+SLester@WBMI.com,BILLERCSR,Allow on-behalf payments
+SLester@WBMI.com,BILLERCSR,Allow payment reversals
+SLester@WBMI.com,BILLERCSR,'Support' Navbar Button
+SLester@WBMI.com,BILLERCSR,'File Transfer' Navbar Button
+SLester@WBMI.com,BILLERCSR,'Upload History' Navbar Button
+SLester@WBMI.com,BILLERCSR,'FTP Setup' Navbar Button
+SLester@WBMI.com,BILLERCSR,Allow payment cancellation
+SLester@WBMI.com,BILLERCSR,'Reconciliation Report' Navbar Button
+SLester@WBMI.com,BILLERCSR,Allow recurring payments set up
+SLester@WBMI.com,BILLERCSR,'Message Report' Navbar Button
+SMorales@WBMI.com,BILLERCSR,'Home' Navbar Button
+SMorales@WBMI.com,BILLERCSR,'Contact' Navbar Button
+SMorales@WBMI.com,BILLERCSR,'Reports' Navbar Button
+SMorales@WBMI.com,BILLERCSR,'Aging Report' Navbar Button
+SMorales@WBMI.com,BILLERCSR,'Scheduled Payments' Navbar Button
+SMorales@WBMI.com,BILLERCSR,'Payment History' Navbar Button
+SMorales@WBMI.com,BILLERCSR,'Call Status' Navbar Button
+SMorales@WBMI.com,BILLERCSR,'Activity Report' Navbar Button
+SMorales@WBMI.com,BILLERCSR,'Settlement Report' Navbar Button
+SMorales@WBMI.com,BILLERCSR,'Audit Report' Navbar Button
+SMorales@WBMI.com,BILLERCSR,Allow on-behalf payments
+SMorales@WBMI.com,BILLERCSR,Allow payment reversals
+SMorales@WBMI.com,BILLERCSR,'Support' Navbar Button
+SMorales@WBMI.com,BILLERCSR,'File Transfer' Navbar Button
+SMorales@WBMI.com,BILLERCSR,'Upload History' Navbar Button
+SMorales@WBMI.com,BILLERCSR,'FTP Setup' Navbar Button
+SMorales@WBMI.com,BILLERCSR,Allow payment cancellation
+SMorales@WBMI.com,BILLERCSR,'Reconciliation Report' Navbar Button
+SMorales@WBMI.com,BILLERCSR,Allow recurring payments set up
+SMorales@WBMI.com,BILLERCSR,'Message Report' Navbar Button
+STeague@WBMI.com,BILLERCSR,'Home' Navbar Button
+STeague@WBMI.com,BILLERCSR,'Contact' Navbar Button
+STeague@WBMI.com,BILLERCSR,'Reports' Navbar Button
+STeague@WBMI.com,BILLERCSR,'Aging Report' Navbar Button
+STeague@WBMI.com,BILLERCSR,'Scheduled Payments' Navbar Button
+STeague@WBMI.com,BILLERCSR,'Payment History' Navbar Button
+STeague@WBMI.com,BILLERCSR,'Call Status' Navbar Button
+STeague@WBMI.com,BILLERCSR,'Activity Report' Navbar Button
+STeague@WBMI.com,BILLERCSR,'Settlement Report' Navbar Button
+STeague@WBMI.com,BILLERCSR,'Audit Report' Navbar Button
+STeague@WBMI.com,BILLERCSR,Allow on-behalf payments
+STeague@WBMI.com,BILLERCSR,Allow payment reversals
+STeague@WBMI.com,BILLERCSR,'Support' Navbar Button
+STeague@WBMI.com,BILLERCSR,'File Transfer' Navbar Button
+STeague@WBMI.com,BILLERCSR,'Upload History' Navbar Button
+STeague@WBMI.com,BILLERCSR,'FTP Setup' Navbar Button
+STeague@WBMI.com,BILLERCSR,Allow payment cancellation
+STeague@WBMI.com,BILLERCSR,'Reconciliation Report' Navbar Button
+STeague@WBMI.com,BILLERCSR,Allow recurring payments set up
+STeague@WBMI.com,BILLERCSR,'Message Report' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,'Home' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,'Contact' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,'Reports' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,Allow on-behalf payments
+TJohnson@wbmi.com,BILLERCSR,Allow payment reversals
+TJohnson@wbmi.com,BILLERCSR,'Support' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,Allow payment cancellation
+TJohnson@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+TJohnson@wbmi.com,BILLERCSR,Allow recurring payments set up
+TJohnson@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,'Home' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,'Contact' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,'Admin Profile' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,'User Admin' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,'Entitlements' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,'Entitlements for Users' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,'Entitlements for Roles' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,'Reports' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,'Biller Group' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,'Configure Email' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,Link to the administration site
+TOpelt@wbmi.com,BILLERADMIN,'File Transfer' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,'Upload History' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,'FTP Setup' Navbar Button
+TOpelt@wbmi.com,BILLERADMIN,'Enrollment Report' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,'Home' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,'Contact' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,'Reports' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,Allow on-behalf payments
+TSchilter@wbmi.com,BILLERCSR,Allow payment reversals
+TSchilter@wbmi.com,BILLERCSR,'Support' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,Allow payment cancellation
+TSchilter@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+TSchilter@wbmi.com,BILLERCSR,Allow recurring payments set up
+TSchilter@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,'Home' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,'Contact' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,'Reports' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,'Aging Report' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,'Scheduled Payments' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,'Payment History' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,'Call Status' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,'Activity Report' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,'Settlement Report' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,'Audit Report' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,Allow on-behalf payments
+TWesley-Beckley@WBMI.com,BILLERCSR,Allow payment reversals
+TWesley-Beckley@WBMI.com,BILLERCSR,'Support' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,'File Transfer' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,'Upload History' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,'FTP Setup' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,Allow payment cancellation
+TWesley-Beckley@WBMI.com,BILLERCSR,'Reconciliation Report' Navbar Button
+TWesley-Beckley@WBMI.com,BILLERCSR,Allow recurring payments set up
+TWesley-Beckley@WBMI.com,BILLERCSR,'Message Report' Navbar Button
+tvarano@wbmi.com,BILLERCSR,'Home' Navbar Button
+tvarano@wbmi.com,BILLERCSR,'Contact' Navbar Button
+tvarano@wbmi.com,BILLERCSR,'Reports' Navbar Button
+tvarano@wbmi.com,BILLERCSR,'Aging Report' Navbar Button
+tvarano@wbmi.com,BILLERCSR,'Scheduled Payments' Navbar Button
+tvarano@wbmi.com,BILLERCSR,'Payment History' Navbar Button
+tvarano@wbmi.com,BILLERCSR,'Call Status' Navbar Button
+tvarano@wbmi.com,BILLERCSR,'Activity Report' Navbar Button
+tvarano@wbmi.com,BILLERCSR,'Settlement Report' Navbar Button
+tvarano@wbmi.com,BILLERCSR,'Audit Report' Navbar Button
+tvarano@wbmi.com,BILLERCSR,Allow on-behalf payments
+tvarano@wbmi.com,BILLERCSR,Allow payment reversals
+tvarano@wbmi.com,BILLERCSR,'Support' Navbar Button
+tvarano@wbmi.com,BILLERCSR,'File Transfer' Navbar Button
+tvarano@wbmi.com,BILLERCSR,'Upload History' Navbar Button
+tvarano@wbmi.com,BILLERCSR,'FTP Setup' Navbar Button
+tvarano@wbmi.com,BILLERCSR,Allow payment cancellation
+tvarano@wbmi.com,BILLERCSR,'Reconciliation Report' Navbar Button
+tvarano@wbmi.com,BILLERCSR,Allow recurring payments set up
+tvarano@wbmi.com,BILLERCSR,'Message Report' Navbar Button
+wsuser@wbmi.com,BILLERWS,Biller Webservice Access
+wsuser@wbmi.com,BILLERWS,Biller ManageAccounts Webservice
+wsuser@wbmi.com,BILLERWS,Biller Redirect Payment Webservice

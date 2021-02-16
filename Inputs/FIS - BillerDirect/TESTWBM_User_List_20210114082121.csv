@@ -1,0 +1,126 @@
+User ID,First Name,Last Name,Status,Permission Group,CSR Level,Last Access Time
+user1,test,user,Active,testgroup1,Biller,
+testCustomer,ITS,Administrator,Active,ROOTGROUP,Unit,
+testCustomer,ITS,Administrator,Active,ROOTGROUP,Unit,
+testCustomer,ITS,Administrator,Active,ROOTGROUP,Unit,
+kminney,Kim,Minney,Inactive,ROOTGROUP,Biller,
+wbmuatinactive,testfirstnameinactive,testlastnameinactive,Inactive,ServiceCenterCSR,Biller,
+SBTest283,test,lsls,Active,ROOTGROUP,Biller,
+TILor,Tou,lOR,Active,BillingCSR,Biller,
+Nrice,Nell,Rice,Active,ROOTGROUP,Biller,
+Cayala,Conrad,Ayala,Active,ROOTGROUP,Biller,
+Jbeine,Joyce,Beine,Active,ROOTGROUP,Biller,01/13/2021 04:01:49
+AntMark22,John,Lewis,Active,ROOTGROUP,Biller,01/13/2021 04:01:06
+AntMark20,John,Lewis,Active,ROOTGROUP,Biller,01/13/2021 12:01:33
+Bwiederhold,Brian,Wiederhold,Active,ROOTGROUP,Biller,01/12/2021 03:01:54
+wbmuat1,testfirstname,testlastname,Inactive,BillingCSR,Biller,01/12/2021 07:01:00
+e5236347,,,Active,Metavante,Biller,01/08/2021 07:01:59
+AntMark09,John,Lewis,Active,ROOTGROUP,Biller,01/06/2021 10:01:26
+Dzemlicka,Darren,Zemlicka,Active,ROOTGROUP,Biller,01/04/2021 05:01:08
+e1034006,,,Active,Metavante,Biller,01/04/2021 02:01:01
+e5576729,,,Active,Metavante,Biller,01/04/2021 01:01:23
+e1058798,,,Active,Metavante,Biller,12/21/2020 04:12:01
+e1009548,,,Active,Metavante,Biller,12/16/2020 10:12:50
+e1009548,,,Active,Metavante,Unit,12/16/2020 10:12:20
+csrtest,TEST,CSR,Active,ROOTGROUP,Biller,12/16/2020 05:12:14
+e1030551,,,Active,Metavante,Biller,12/15/2020 01:12:05
+e5228745,,,Active,Metavante,Unit,12/11/2020 06:12:57
+e5228745,,,Active,Metavante,Biller,12/11/2020 02:12:26
+e5572855,,,Active,Metavante,Biller,12/07/2020 10:12:11
+e5547427,,,Active,Metavante,Biller,11/30/2020 12:11:21
+AntMark21,John,Lewis,Active,ROOTGROUP,Biller,11/24/2020 08:11:21
+Manguelov,Milena,Anguelov,Active,BillingCSR,Biller,11/11/2020 01:11:46
+e1030490,,,Active,Metavante,Biller,10/30/2020 04:10:54
+Ehinkley,Elizabeth,Hinkley,Active,ROOTGROUP,Biller,10/27/2020 06:10:00
+Cjolitz,Corey,Jolitz,Active,BillingCSR,Biller,10/26/2020 11:10:44
+Kminney,Kim,Minney,Active,ROOTGROUP,Biller,10/19/2020 08:10:22
+SBTest101,test,ks,Active,ROOTGROUP,Biller,10/11/2020 04:10:45
+Jmonson,Jackie,Monson,Inactive,ROOTGROUP,Biller,10/05/2020 12:10:12
+Kulesich,Kelli,Ulesich,Active,BillingCSR,Biller,09/16/2020 02:09:51
+Rngo,Richard,Ngo,Active,ROOTGROUP,Biller,07/16/2020 02:07:30
+AntMakr01,test,test,Active,ROOTGROUP,Biller,07/02/2020 07:07:21
+e3020294,,,Active,Metavante,Biller,07/02/2020 06:07:49
+SBTest910,test,lsls,Active,ROOTGROUP,Biller,06/11/2020 11:06:19
+SBTest380,test,lsls,Active,ROOTGROUP,Biller,06/10/2020 07:06:37
+SBTest789,test,lsls,Active,ServiceCenterCSR,Biller,06/10/2020 07:06:11
+SBTest780,test,lsl,Active,TestGroup,Biller,06/10/2020 07:06:22
+Mwolinski,Matt,Wolinski,Active,ROOTGROUP,Biller,05/12/2020 03:05:50
+jaswinder,Jas,Gill,Active,ROOTGROUP,Biller,03/20/2020 11:03:17
+e5425759,,,Active,Metavante,Biller,01/30/2020 10:01:03
+e1030456,,,Active,Metavante,Biller,01/13/2020 03:01:37
+DStern,Debbie,Stern,Active,BillingCSR,Biller,01/07/2020 01:01:51
+Rfriedemann,Renee,Friedemann,Active,BillingCSR,Biller,12/06/2019 04:12:00
+e5577397,,,Active,Metavante,Biller,11/20/2019 04:11:45
+testCustomer,ITS,Administrator,Active,ROOTGROUP,Biller,11/19/2019 01:11:07
+AntMark,John,Lewis,Active,ROOTGROUP,Biller,11/14/2019 10:11:19
+CWJolit,Corey,Jolitz,Inactive,BillingCSR,Biller,11/07/2019 03:11:58
+AntMark1,John,Lewis,Active,ROOTGROUP,Biller,10/22/2019 04:10:18
+e1034052,,,Active,Metavante,Biller,10/09/2019 02:10:46
+e1060739,,,Active,ROOTGROUP,Biller,09/11/2019 02:09:37
+AntMark10,John,Lewis,Active,ROOTGROUP,Biller,09/03/2019 03:09:37
+MSTest101,SD,Test,Active,ROOTGROUP,Biller,08/30/2019 02:08:28
+e3018117,,,Active,Metavante,Biller,08/29/2019 07:08:22
+WBMIUat,WBMI,UAT,Active,ROOTGROUP,Biller,08/26/2019 09:08:42
+e3014066,,,Active,Metavante,Biller,08/26/2019 09:08:33
+AntMark2,John,Lewis,Active,ROOTGROUP,Biller,08/02/2019 06:08:01
+Pepita25,Joyce,Beine,Inactive,ROOTGROUP,Biller,07/12/2019 08:07:38
+Jschumacher,Julie,Schumacher,Active,BillingCSR,Biller,07/11/2019 01:07:12
+KMinney,Kim,Minney,Active,BillingCSR,Biller,07/09/2019 11:07:14
+MAnguelov,Milena,Anguelov,Inactive,BillingCSR,Biller,07/08/2019 12:07:16
+Panderson,Pam,Anderson,Active,BillingCSR,Biller,06/17/2019 12:06:09
+Tdebroux,Terry ,Debroux,Active,BillingCSR,Biller,05/17/2019 12:05:58
+csrtapas,Tapas,Das,Active,ROOTGROUP,Biller,05/10/2019 04:05:51
+fisvaradarajang,Gopi,Varadarajan,Active,ROOTGROUP,Biller,04/01/2019 01:04:56
+AWulf,Andrea,Wulf,Active,BillingCSR,Biller,02/26/2019 03:02:30
+Kcasper,Kay,Casper,Active,BillingCSR,Biller,02/14/2019 08:02:00
+e3025270,,,Active,Metavante,Biller,02/10/2019 10:02:16
+e1009548,,,Active,Metavante,Unit,01/28/2019 03:01:47
+e1067933,,,Active,Metavante,Biller,01/28/2019 02:01:46
+Abuddenhagen,Ann,Buddenhagen,Active,BillingCSR,Biller,01/18/2019 01:01:33
+e1038192,,,Active,Metavante,Biller,01/03/2019 02:01:57
+KKollm,Kris,Kollmansberger,Active,ROOTGROUP,Biller,01/03/2019 12:01:33
+e1030490,,,Active,Metavante,Unit,01/02/2019 12:01:13
+SBTest818,test,ks,Active,ROOTGROUP,Biller,12/27/2018 07:12:45
+e1094658,,,Active,Metavante,Biller,12/13/2018 03:12:08
+e1094658,,,Active,Metavante,Unit,12/13/2018 02:12:59
+e3019446,,,Active,Metavante,Biller,12/06/2018 10:12:11
+KCasper,Kay,Casper,Active,ROOTGROUP,Biller,12/03/2018 05:12:54
+SBTest303,test,ks,Active,ROOTGROUP,Biller,11/21/2018 07:11:16
+Jritger,Judy,Ritger,Active,BillingCSR,Biller,11/12/2018 02:11:05
+e3025806,,,Active,Metavante,Biller,11/12/2018 09:11:46
+SBTest892,test,ks,Active,ROOTGROUP,Biller,10/29/2018 03:10:21
+mehta,Namrata,Mehta,Active,ROOTGROUP,Biller,10/26/2018 02:10:14
+e1058798,,,Active,Metavante,Unit,10/25/2018 01:10:48
+e1093805,,,Active,Metavante,Biller,10/24/2018 12:10:14
+SBTest202,test,ks,Active,ROOTGROUP,Biller,10/23/2018 06:10:22
+e3029044,,,Active,Metavante,Biller,10/22/2018 11:10:54
+e3026833,,,Active,Metavante,Biller,10/19/2018 06:10:56
+e1093712,,,Active,Metavante,Biller,09/25/2018 09:09:02
+Moresnik,Martin,Oresnik,Active,ROOTGROUP,Biller,09/17/2018 10:09:09
+e3026833,,,Active,Metavante,Unit,09/13/2018 11:09:46
+NLancour,Nicholas,Lancour,Active,ServiceCenterCSR,Biller,07/18/2018 01:07:25
+e1032609,,,Active,Metavante,Biller,07/16/2018 02:07:00
+e1032609,,,Active,Metavante,Unit,07/16/2018 02:07:23
+KACaspe,Kay,Casper,Inactive,BillingCSR,Biller,06/29/2018 04:06:28
+e1066343,,,Active,Metavante,Biller,05/01/2018 10:05:09
+agent,Jimmy,Johns,Active,ACTESTGROUP,Biller,04/16/2018 02:04:31
+e1034661,,,Active,Metavante,Biller,04/06/2018 10:04:13
+STeague,Sarah,Teague,Active,ServiceCenterCSR,Biller,04/03/2018 03:04:35
+e5547427,,,Active,Metavante,Unit,03/21/2018 09:03:39
+MSTest301,QA,Test,Active,ROOTGROUP,Biller,03/14/2018 08:03:33
+e1053607,,,Active,Metavante,Biller,03/05/2018 10:03:32
+SSingiri,Sangeetha,Singiri,Active,BillingCSR,Biller,01/29/2018 11:01:02
+SCushman,Sandy,Cushman,Active,BillingCSR,Biller,01/17/2018 04:01:06
+PSarvep,Prasanna,Sarvepalli,Active,BillingCSR,Biller,01/10/2018 01:01:24
+e1053607,,,Active,Metavante,Unit,01/09/2018 11:01:19
+KMKollm,Kristen,Kollmansberger,Active,BillingCSR,Biller,12/07/2017 12:12:29
+RFriedemann,Renee,Friedemann,Active,BillingCSR,Biller,12/01/2017 03:12:44
+JMyers,James,Myers,Active,BillingCSR,Biller,11/14/2017 03:11:57
+e1066343,,,Active,Metavante,Unit,11/01/2017 02:11:56
+SSingiriBCSR,Sangeetha,Singiri,Inactive,BillingCSR,Biller,10/24/2017 08:10:27
+SCushmanBCSR,Sandy,Cushman,Inactive,BillingCSR,Biller,10/23/2017 03:10:21
+SSingiriSCSR,Sangeetha,Singiri,Inactive,ServiceCenterCSR,Biller,10/23/2017 01:10:08
+JKMyers,Jim,Myers,Inactive,BillingCSR,Biller,10/20/2017 10:10:36
+csrpl01,Jon,Don,Active,ROOTGROUP,Unit,10/17/2017 09:10:26
+SCushmanSCSR,Sandy,Cushman,Inactive,ServiceCenterCSR,Biller,10/10/2017 03:10:22
+e1039268,,,Active,Metavante,Biller,10/04/2017 06:10:40
